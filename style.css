@@ -332,6 +332,7 @@ Author: Studio Afterglow
     .banner{
         height: 200px;
         background-size: contain;
+        background-attachment: static;
     }
     .banner-text h1, .banner-text h2{
         font-size: 8vw;
